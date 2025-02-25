@@ -29,3 +29,11 @@ NumPy 📊 – Data manipulation
 🤖 The AI analyzes the drawing.
 
 🔍 The model predicts and displays the classified result.
+
+🌍 Future Enhancements
+
+🎯 Improve classification accuracy with a larger dataset
+
+📱 Deploy as a mobile app
+
+🎭 Add more categories for better recognition
