@@ -11,11 +11,8 @@ The Neuro Drawing Classifier 🧠✏️ is an AI-powered project that classifies
 
 🛠️ Technologies Used
 Python 🐍 – Core programming language
-
 Streamlit 🌐 – For the web-based interface
-
 TensorFlow/Keras 🤖 – Deep learning framework
-
 OpenCV 👀 – Image processing
 
 NumPy 📊 – Data manipulation
