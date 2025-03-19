@@ -18,15 +18,10 @@ OpenCV 👀 – Image processing
 NumPy 📊 – Data manipulation
 🎨 How It Works?
 🖌️ Draw something on the canvas.
-
 🤖 The AI analyzes the drawing.
-
 🔍 The model predicts and displays the classified result.
-
 🌍 Future Enhancements
 
 🎯 Improve classification accuracy with a larger dataset
-
 📱 Deploy as a mobile app
-
 🎭 Add more categories for better recognition
