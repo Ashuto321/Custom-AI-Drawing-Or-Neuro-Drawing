@@ -1,5 +1,6 @@
 🎨 Neuro Drawing Classifier 🤖
 
+
 📌 Project Overview
 The Neuro Drawing Classifier 🧠✏️ is an AI-powered project that classifies drawings in real-time using machine learning algorithms. This project leverages deep learning techniques to recognize sketches and categorize them based on trained datasets. 🚀
 
